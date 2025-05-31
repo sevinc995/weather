@@ -11,9 +11,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 400px;
+  width: 300px;
   background-color: #a4caff;
-  border-radius: 30px;
+  border-radius: 25px;
 }
 #weather .box .data {
   display: flex;
@@ -31,13 +31,13 @@ body {
   padding: 20px 0;
 }
 #weather .box #myWeather {
-  width: 300px;
+  width: 160px;
   height: 40px;
   border: 1px solid black;
   border-radius: 20px;
 }
 #weather .box #btn {
-  width: 260px;
+  width: 100px;
   height: 40px;
   border-radius: 20px;
   background-color: #79afff;
@@ -45,4 +45,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
